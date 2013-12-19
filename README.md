@@ -7,7 +7,7 @@ a) <b>TestHello</b> is the Android project which has internal references to othe
 The library projects can be downloaded from the Titanium Source at this location <br/>
 https://github.com/appcelerator/titanium_mobile/tree/master/android
 
-b) <b>TitaniumHello</b>is the Android project which has references to the jars & .so files <br/>
+b) <b>TitaniumHello</b> is the Android project which has references to the jars & .so files <br/>
 Jars contained inside the project are fetched from here <br/>
 C:\Users\USERNAME\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android 
 C:\Users\USERNAME\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\native\libs
